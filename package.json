@@ -1,6 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Mary McGinty",
+  "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "related",
+    "words"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
